@@ -13,5 +13,6 @@ public class Count {
 
         }
         System.out.println(b);
+        System.out.println(b);
     }
 }
